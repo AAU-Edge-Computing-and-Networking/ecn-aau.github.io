@@ -8,4 +8,22 @@
 #  education3:
 #  education4:
 
+- name: Nickels Witte
+  photo: rock.jpg
+  info: Highly engaged master student, very good at web development
+  email: nwitte22@student.aau.dk
+  number_educ: 0
+  education1: A
+  education2: B
+  education3:
+  education4:
 
+- name: Jane Doe
+  photo: rock.jpg
+  info: Did all the actual work, but does not get credit
+  email: jd@student.aau.dk
+  number_educ: 0
+  education1: A
+  education2: B
+  education3:
+  education4:
