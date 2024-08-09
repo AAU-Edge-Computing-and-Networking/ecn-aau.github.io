@@ -41,7 +41,11 @@ permalink: /
 
 The group specializes in networking and cloud and edge computing. A specific focus will be on computing solutions for mission-critical applications, including cellular access networking and computation acceleration, as the key components of platforms for the execution of mission-critical services. The group hosts a number of research projects featuring IoT and human-in-the-loop mission-critical applications. 
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Commodo interdum senectus conubia et euismod urna lacinia purus luctus mattis donec. Torquent curae semper mauris aliquet laoreet enim sem curabitur rutrum aptent est. Per feugiat mattis ad dictum lorem venenatis malesuada magna feugiat consequat magna. Luctus aliquet vitae sagittis bibendum in praesent bibendum potenti lectus ridiculus metus. Neque rutrum hac maecenas suspendisse placerat mauris curabitur varius diam elit cum. Est pulvinar dapibus pretium velit sollicitudin dolor dui volutpat scelerisque himenaeos ullamcorper.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Commodo interdum senectus conubia et euismod urna lacinia purus luctus mattis donec. Torquent curae semper mauris aliquet laoreet enim sem curabitur rutrum aptent est. Per feugiat mattis ad dictum lorem venenatis malesuada magna feugiat consequat magna. Luctus aliquet vitae sagittis bibendum in praesent bibendum potenti lectus ridiculus metus. Neque rutrum hac maecenas suspendisse placerat mauris curabitur varius diam elit cum. Est pulvinar dapibus pretium velit sollicitudin dolor dui volutpat scelerisque himenaeos ullamcorper.
+
+**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team!** [More Info]({{ site.url }}{{ site.baseurl }}/vacancies)
 
 
 ## Funding
