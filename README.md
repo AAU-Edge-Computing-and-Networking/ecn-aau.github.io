@@ -7,4 +7,5 @@ This website is powered by Jekyll and some Bootstrap, Bootwatch based on the tem
 ## Todos
 
 - [ ] Decide on main page structure
+- [ ] Populate content for first draft
 - [ ] Add [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) plugin
