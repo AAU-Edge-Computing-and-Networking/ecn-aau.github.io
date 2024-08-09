@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Instrumente"
+title: "ECN AAU - Instrumente"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
