@@ -10,7 +10,8 @@ permalink: /projects/
 
 Updating soon -- stay put. (Aug 09 2024)
 
-[Test Project, please Click](/projects/projectA)
+[Test Project A, please Click](/projects/projectA)  
+[Test Project B, please Click](/projects/projectB)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio elit dapibus amet eleifend neque porttitor orci vitae at imperdiet primis nam felis. Id at lacus ligula bibendum ornare neque consectetur quisque blandit hac morbi potenti varius. Ipsum phasellus diam sed conubia laoreet in pellentesque tempor dictum velit suspendisse iaculis mus. Vitae vitae justo ante class aptent neque dolor consequat venenatis facilisi primis sit justo. Nunc ante gravida blandit conubia himenaeos luctus integer placerat quisque vehicula elit nam convallis. Ligula vel dictum sollicitudin eget nascetur sit montes sem congue leo enim vulputate fusce. Proin feugiat non ad est gravida vivamus facilisi porta curabitur pellentesque feugiat per ultricies. Felis vulputate molestie metus imperdiet nulla fermentum odio amet curabitur montes himenaeos tempor nascetur.
 
