@@ -7,7 +7,6 @@ permalink: /
 ---
 
 
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="10000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -28,6 +27,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/3.jpg" alt="Slide 3" />
         </div>
     </div>
+
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -39,14 +39,13 @@ permalink: /
 </div>
 
 
-The group specializes in networking and cloud and edge computing. A specific focus will be on computing solutions for mission-critical applications, including cellular access networking and computation acceleration, as the key components of platforms for the execution of mission-critical services. The group hosts a number of research projects featuring IoT and human-in-the-loop mission-critical applications. 
+The group specializes in networking and cloud and edge computing.
+A specific focus will be on computing solutions for mission-critical applications, including cellular access networking
+and computation acceleration, as the key components of platforms for the execution of mission-critical services. The
+group hosts a number of research projects featuring IoT and human-in-the-loop mission-critical applications.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Commodo interdum senectus conubia et euismod urna lacinia purus luctus mattis donec. Torquent curae semper mauris aliquet laoreet enim sem curabitur rutrum aptent est. Per feugiat mattis ad dictum lorem venenatis malesuada magna feugiat consequat magna. Luctus aliquet vitae sagittis bibendum in praesent bibendum potenti lectus ridiculus metus. Neque rutrum hac maecenas suspendisse placerat mauris curabitur varius diam elit cum. Est pulvinar dapibus pretium velit sollicitudin dolor dui volutpat scelerisque himenaeos ullamcorper.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Commodo interdum senectus conubia et euismod urna lacinia purus luctus mattis donec. Torquent curae semper mauris aliquet laoreet enim sem curabitur rutrum aptent est. Per feugiat mattis ad dictum lorem venenatis malesuada magna feugiat consequat magna. Luctus aliquet vitae sagittis bibendum in praesent bibendum potenti lectus ridiculus metus. Neque rutrum hac maecenas suspendisse placerat mauris curabitur varius diam elit cum. Est pulvinar dapibus pretium velit sollicitudin dolor dui volutpat scelerisque himenaeos ullamcorper.
-
-**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team!** [More Info]({{ site.url }}{{ site.baseurl }}/vacancies)
-
+**We are looking for passionate new PhD students, Postdocs, and Master students to join the team!** [More Info]({{
+site.url }}{{ site.baseurl }}/vacancies)
 
 ## Funding
 
