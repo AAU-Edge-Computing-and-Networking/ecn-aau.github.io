@@ -26,7 +26,10 @@ permalink: /projects-grid/
   <pubtit>{{ proj.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ proj.description }}</p>
-  <p><em>{{ proj.authors }}</em></p>
+  <p>People involved: <em>{{ proj.authors }}</em></p>
+  <p>Funding: {{ proj.funding }}</p>
+  <p>Budget: {{ proj.budget }}</p>
+  <p>Duration: {{ proj.duration }}</p>
   <p><strong><a href="{{ proj.link.url }}">{{ proj.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ proj.news1 }}</strong></p>
   <p> {{ proj.news2 }}</p>

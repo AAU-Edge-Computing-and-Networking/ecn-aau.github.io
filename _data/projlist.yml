@@ -1,7 +1,10 @@
 - title: "FGPE++: Gamified Programming Learning at Scale"
   image: ShotNoise.png
   description: The project aims at increasing the educational potential of the FGPE framework by enhancing its usability for both students and teachers, by (1) enabling the automatic generation of gamified programming exercises, (2) enabling the effective use of the FGPE programming learning environment on mobile devices which are, for some period, disconnected from the Internet, (3) developing a full-fledged open online course for a popular programming language.
-  authors: S. Kosta
+  funding: EU Erasmus+
+  budget: 250K EUR
+  authors: Persons involved - S. Kosta
+  duration: 01/10/2023 → 30/09/2025
   link:
     url: https://ecn-aau.github.io/projects/fgpe_plus_plus
     display: More details
