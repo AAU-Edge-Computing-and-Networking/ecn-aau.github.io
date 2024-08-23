@@ -1,15 +1,3 @@
-- title: "FGPE++: Gamified Programming Learning at Scale"
-  image: logo_FGPE.jpg
-  description: The project aims is to provide a framework for application of gamification to programming education, including the specifications, collection of gamified exercises and software. The project aims at increasing the educational potential of the FGPE framework by enhancing its usability for both students and teachers, by (1) enabling the automatic generation of gamified programming exercises, (2) enabling the effective use of the FGPE programming learning environment on mobile devices which are, for some period, disconnected from the Internet, (3) developing a full-fledged open online course for a popular programming language.
-  funding: EU Erasmus+
-  budget: 250K EUR
-  people: Sokol Kosta (PI)
-  duration: 01/10/2023 → 30/09/2025
-  link:
-    url: https://ecn-aau.github.io/projects/fgpe_plus_plus
-    display: More details
-  highlight: 1
-
 - title: "CLEVER: Collaborative edge-cLoud continuum and Embedded AI for a Visionary industry of thE futuRe"
   image: logo_clever.png
   description: CLEVER proposes a series of innovations in hardware accelerators, design stack, and middleware software that revolutionize the ability of edge computing platforms to operate federatedly, leveraging sparse resources that are coordinated to create a powerful swarm of resources. CLEVER technologies will support the deep edge computing paradigm, moving computing services closer to the end user or the source of the data to reduce power consumption, reduce capacity requirements, and latency for mission critical applications.
@@ -31,5 +19,17 @@
   duration: 01/09/2022 → 31/08/2026
   link:
     url: https://ecn-aau.github.io/projects/quarc
+    display: More details
+  highlight: 1
+
+- title: "FGPE++: Gamified Programming Learning at Scale"
+  image: logo_FGPE.jpg
+  description: The project aims is to provide a framework for application of gamification to programming education, including the specifications, collection of gamified exercises and software. The project aims at increasing the educational potential of the FGPE framework by enhancing its usability for both students and teachers, by (1) enabling the automatic generation of gamified programming exercises, (2) enabling the effective use of the FGPE programming learning environment on mobile devices which are, for some period, disconnected from the Internet, (3) developing a full-fledged open online course for a popular programming language.
+  funding: EU Erasmus+
+  budget: 250K EUR
+  people: Sokol Kosta (PI)
+  duration: 01/10/2023 → 30/09/2025
+  link:
+    url: https://ecn-aau.github.io/projects/fgpe_plus_plus
     display: More details
   highlight: 1
