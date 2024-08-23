@@ -8,7 +8,7 @@ permalink: /projects/
 
 # Current Projects
 
-Updating soon -- stay put. (Aug 09 2024)
+Updating soon -- stay put. (Aug 23 2024)
 
 ### [MSCA DN QUARC](projects/quarc)
 

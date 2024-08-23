@@ -30,8 +30,7 @@ The proposed project will produce the following results:
 3) a full-fledged FGPE-supported and LMS-compliant open
    gamified course for a popular programming language - an open educational material.
    The project outcomes will include: reducing the requirements in skills for gamifying programming courses and
-   improving
-   the usability of the FGPE platform.
+   improving the usability of the FGPE platform.
 
 |                          |                                                                                                                                                                                                                            |
 |--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
