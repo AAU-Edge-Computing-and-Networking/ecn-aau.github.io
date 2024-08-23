@@ -1,15 +1,55 @@
+- name: Cedomir Stefanovic
+  photo: CedomirStefanovic.jpg
+  info: Professor, Group leader
+  email: cs@es.aau.dk
+  number_educ: 2
+  education1: A
+  education2: B
+  education3:
+  education4:
+
+- name: Sokol Kosta
+  photo: SokolKosta.jpg
+  info: Associate professor, as of 2020
+  email: sok@es.aau.dk
+  number_educ: 4
+  education1: Postdoc at Hong Kong University of Science and Technology (HKUST)
+  education2: Postdoc at Sapienza University of Rome
+  education3: PhD in Computer Science (supervisor Prof. [Alessandro Mei](http://wwwusers.di.uniroma1.it/~mei/)), Sapienza University of Rome, Italy
+  education4: MSc in Computer Science, Sapienza University of Rome, Italy
+
 - name: Hossam Mohamed Farag
   photo: hossam.jpg
-  info: tbd
+  info: Tenure Track Assistant Professor
   email: hmf@es.aau.dk
   number_educ: 3
   education1: A
   education2: B
   education3: C
 
+- name: Yan Kyaw Tun
+  photo: profile.jpg
+  info: Tenure Track Assistant Professor
+  email: ykt@es.aau.dk
+  number_educ: 2
+  education1: A
+  education2: B
+  education3:
+  education4:
+
+- name: Muhammad Waleed
+  photo: Waleed-1_compressed.webp
+  info: PhD on the <a href="https://ecn-aau.github.io/projects/fgpe_plus_plus">MSCA ITN IoTalentum project</a>
+  email: muhammadw@es.aau.dk
+  number_educ: 2
+  education1: A
+  education2: B
+  education3:
+  education4:
+
 - name: Mieszko Jan Ferens Michalek
   photo: mieszko.jpg
-  info: tbd
+  info: PhD on the <a href="https://ecn-aau.github.io/projects/fgpe_plus_plus">MSCA ITN IoTalentum project</a>
   email: mjfm@es.aau.dk
   number_educ: 2
   education1: A
@@ -45,45 +85,6 @@
   photo: OzanKaraali.jpg
   info: tbd
   email: ozank@es.aau.dk
-  number_educ: 2
-  education1: A
-  education2: B
-  education3:
-  education4:
-
-- name: Sokol Kosta
-  photo: SokolKosta.jpg
-  info: Associate professor, started MMM YYYY
-  email: sok@es.aau.dk
-  number_educ: 3
-  education1: A
-  education2: B
-  education3: C
-
-- name: Cedomir Stefanovic
-  photo: CedomirStefanovic.jpg
-  info: TBD
-  email: cs@es.aau.dk
-  number_educ: 2
-  education1: A
-  education2: B
-  education3:
-  education4:
-
-- name: Yan Kyaw Tun
-  photo: profile.jpg
-  info: TBD
-  email: ykt@es.aau.dk
-  number_educ: 2
-  education1: A
-  education2: B
-  education3:
-  education4:
-
-- name: Muhammad Waleed
-  photo: Waleed-1_compressed.webp
-  info: TBD
-  email: muhammadw@es.aau.dk
   number_educ: 2
   education1: A
   education2: B
