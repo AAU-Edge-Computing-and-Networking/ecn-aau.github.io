@@ -27,8 +27,8 @@
   description: QUARC will train 8 Doctoral Candidates (DCs) through an outstanding training program that includes coordinated research in different cryptography areas, focusing on implementation. QUARC is an industrial doctorate, and besides a 50% of their time located in an industrial partner, each DC will be also exposed to a set of training initiatives in the areas of relevance for industry and receive the support of an external advisory board made out of experts in the field. QUARC establishes a well-balances, interdisciplinary, intersectoral and innovative training network, with an overarching theme of quality and edginess - research as a training tool to push the current state-of-the-art in PQC.
   people: Sokol Kosta (PI), Knud Erik Skouby (co-PI), Dimosthenis Iliadis-Apostolidis (DC), Jerónimo Sánchez García (DC)
   funding: EU Horizon Europe MSCA DN
-  budget:
-  duration: 01/01/2023 → 31/12/2025
+  budget: € 2 215 893,60
+  duration: 01/09/2022 → 31/08/2026
   link:
     url: https://ecn-aau.github.io/projects/quarc
     display: More details
