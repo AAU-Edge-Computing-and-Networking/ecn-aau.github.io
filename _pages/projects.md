@@ -10,15 +10,15 @@ permalink: /projects/
 
 Updating soon -- stay put. (Aug 23 2024)
 
-### [MSCA DN QUARC](projects/quarc)
+### [MSCA DN QUARC](/projects/quarc)
 
-### [MSCA ITN IoTalentum](projects/iotalentum)
+### [MSCA ITN IoTalentum](/projects/iotalentum)
 
-### [EU Horizon Europe I3Lung](projects/i3lung)
+### [EU Horizon Europe I3Lung](/projects/i3lung)
 
-### [KDT JU CLEVER](projects/clever)
+### [KDT JU CLEVER](/projects/clever)
 
-### [FGPE++: Gamified Programming Learning at Scale](projects/fgpe_plus_plus)
+### [FGPE++: Gamified Programming Learning at Scale](/projects/fgpe_plus_plus)
 
 The project aims at increasing the educational potential of the FGPE framework by enhancing its usability for
 both students and teachers, by: (1) enabling the automatic generation of gamified programming exercises, (2) enabling

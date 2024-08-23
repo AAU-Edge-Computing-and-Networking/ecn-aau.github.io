@@ -3,7 +3,7 @@ title: "ECN AAU - Example Project"
 layout: textlay
 excerpt: "ECN AAU -- Projects"
 sitemap: false
-permalink: /projects/projectA
+permalink: /projects/fgpe_plus_plus
 ---
 
 # FGPE++: Gamified Programming Learning at Scale
