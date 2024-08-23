@@ -3,7 +3,7 @@
   description: The project aims at increasing the educational potential of the FGPE framework by enhancing its usability for both students and teachers, by (1) enabling the automatic generation of gamified programming exercises, (2) enabling the effective use of the FGPE programming learning environment on mobile devices which are, for some period, disconnected from the Internet, (3) developing a full-fledged open online course for a popular programming language.
   funding: EU Erasmus+
   budget: 250K EUR
-  people: S. Kosta (PI)
+  people: Sokol Kosta (PI)
   duration: 01/10/2023 → 30/09/2025
   link:
     url: https://ecn-aau.github.io/projects/fgpe_plus_plus
@@ -18,24 +18,18 @@
   budget: € 14 974 655,00 (EU contribution € 4 497 177,77)
   duration: 01/01/2023 → 31/12/2025
   link:
-    url: https://ecn-aau.github.io/projects/i3lung
+    url: https://ecn-aau.github.io/projects/clever
     display: More details
   highlight: 1
 
-- title: "FGPE++: Gamified Programming Learning at Scale"
-  image: ShotNoise.png
-  description: The project aims at increasing the educational potential of the FGPE framework by enhancing its usability for both students and teachers, by (1) enabling the automatic generation of gamified programming exercises, (2) enabling the effective use of the FGPE programming learning environment on mobile devices which are, for some period, disconnected from the Internet, (3) developing a full-fledged open online course for a popular programming language.
-  authors: S. Kosta
+- title: "QUARC: Quantum Resistant Communications: Advance Learning in applied PQC Training"
+  image: logo_quarc.jpg
+  description: QUARC will train 8 Doctoral Candidates (DCs) through an outstanding training program that includes coordinated research in different cryptography areas, focusing on implementation. QUARC is an industrial doctorate, and besides a 50% of their time located in an industrial partner, each DC will be also exposed to a set of training initiatives in the areas of relevance for industry and receive the support of an external advisory board made out of experts in the field. QUARC establishes a well-balances, interdisciplinary, intersectoral and innovative training network, with an overarching theme of quality and edginess - research as a training tool to push the current state-of-the-art in PQC.
+  people: Sokol Kosta (PI), Knud Erik Skouby (co-PI), Dimosthenis Iliadis-Apostolidis (DC), Jerónimo Sánchez García (DC)
+  funding: EU Horizon Europe MSCA DN
+  budget:
+  duration: 01/01/2023 → 31/12/2025
   link:
-    url: https://ecn-aau.github.io/projects/fgpe_plus_plus
-    display: More details
-  highlight: 1
-
-- title: "FGPE++: Gamified Programming Learning at Scale"
-  image: ShotNoise.png
-  description: The project aims at increasing the educational potential of the FGPE framework by enhancing its usability for both students and teachers, by (1) enabling the automatic generation of gamified programming exercises, (2) enabling the effective use of the FGPE programming learning environment on mobile devices which are, for some period, disconnected from the Internet, (3) developing a full-fledged open online course for a popular programming language.
-  authors: S. Kosta
-  link:
-    url: https://ecn-aau.github.io/projects/fgpe_plus_plus
+    url: https://ecn-aau.github.io/projects/quarc
     display: More details
   highlight: 1
