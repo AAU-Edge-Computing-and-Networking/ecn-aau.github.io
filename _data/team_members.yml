@@ -49,7 +49,7 @@
 
 - name: Mieszko Jan Ferens Michalek
   photo: mieszko.jpg
-  info: PhD on the <a href="https://ecn-aau.github.io/projects/fgpe_plus_plus">MSCA ITN IoTalentum project</a>
+  info: PhD on the <a href="https://ecn-aau.github.io/projects/iotalentum">MSCA ITN IoTalentum project</a>
   email: mjfm@es.aau.dk
   number_educ: 2
   education1: A
@@ -65,7 +65,7 @@
 
 - name: Jerónimo Sánchez García
   photo: Jeronimo.jpg
-  info: tbd
+  info: PhD on the <a href="https://ecn-aau.github.io/projects/quarc">MSCA DN QUARC project</a>
   email: jsg@es.aau.dk
   number_educ: 2
   education1: A
@@ -73,7 +73,7 @@
 
 - name: Dimosthenis Iliadis-Apostolidis
   photo: DimosthenisIliadisApostolidis.jpg
-  info: tbd
+  info: PhD on the <a href="https://ecn-aau.github.io/projects/quarc">MSCA DN QUARC project</a>
   email: dia@es.aau.dk
   number_educ: 2
   education1: A
@@ -83,7 +83,7 @@
 
 - name: Ozan Karaali
   photo: OzanKaraali.jpg
-  info: tbd
+  info: PhD on the <a href="https://ecn-aau.github.io/projects/climb">DFF CLIMB project</a>
   email: ozank@es.aau.dk
   number_educ: 2
   education1: A
@@ -93,7 +93,7 @@
 
 - name: Michele Zanitti
   photo: profile.jpg
-  info: TBD
+  info: PhD on the <a href="https://ecn-aau.github.io/projects/i3lung">EU Horizon Europe I3LUNG project</a>
   email: mza@es.aau.dk
   number_educ: 2
   education1: A
