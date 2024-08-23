@@ -7,9 +7,7 @@ permalink: /projects/
 ---
 
 
-# Projects
-
-## Group highlights
+# Active Projects
 
 {% assign number_printed = 0 %}
 {% for proj in site.data.projlist %}
@@ -24,7 +22,7 @@ permalink: /projects/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ proj.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/{{ proj.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ proj.description }}</p>
   <p>People involved: <em>{{ proj.people }}</em><br>
   Funding: {{ proj.funding }}<br>
