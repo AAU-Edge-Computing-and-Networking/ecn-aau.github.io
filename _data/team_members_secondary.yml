@@ -1,0 +1,37 @@
+- name: Edlira Dushku
+  photo: profile.jpg
+  info: Tenure Track Assistant Professor
+  email: edu@es.aau.dk
+  number_educ: 2
+  education1: A
+  education2: B
+
+- name: Israel Leyva Mayorga
+  photo: IsraelLeyvaMayorga.jpg
+  info: TBD
+  email: ilm@es.aau.dk
+  number_educ: 2
+  education1: A
+  education2: B
+  education3:
+  education4:
+
+- name: Reza Tadayoni
+  photo: RezaAliTadayoni.jpg
+  info: TBD
+  email: reza@es.aau.dk
+  number_educ: 2
+  education1: A
+  education2: B
+  education3:
+  education4:
+
+- name: Weifan Zhang
+  photo: WeifanZhang.jpg
+  info: TBD
+  email: weifanzh@es.aau.dk
+  number_educ: 2
+  education1: A
+  education2: B
+  education3:
+  education4:
