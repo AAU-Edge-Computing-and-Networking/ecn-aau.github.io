@@ -6,12 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-
-# Publications
-
 ## Publications from primary affiliated members
-
-## Publications from secondary affiliated members
 
 {% for publi in site.data.publist %}
 
@@ -19,3 +14,5 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+
+## Publications from secondary affiliated members
