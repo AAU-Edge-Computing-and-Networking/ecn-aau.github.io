@@ -28,7 +28,7 @@ disconnected from the Internet, (3) developing a full-fledged open online course
 **Funding**: EU ERASMUS+  
 **Budget**: 250K EUR  
 **Duration**: 01/10/2023 → 30/09/2025  
-**Partners**: University of Szczecin (Poland, lead), University of Naples Parthenope (Italy), Kaunas University of Technology (Lithuania), Institute for Systems and Computer Engineering, Technology and Science (Portugal)
+**Partners**: University of Szczecin (US, Poland, lead), Aalborg University (AAU, Denmark), University of Naples Parthenope (UNP, Italy), Kaunas University of Technology (Lithuania), Institute for Systems and Computer Engineering, Technology and Science (INESC TEC, Portugal)
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
