@@ -13,10 +13,10 @@
   info: Associate professor, as of 2020
   email: sok@es.aau.dk
   number_educ: 4
-  education1: Postdoc at Hong Kong University of Science and Technology (HKUST)
-  education2: Postdoc at Sapienza University of Rome
-  education3: PhD in CS, Sapienza University of Rome (supervisor <a href="http://wwwusers.di.uniroma1.it/~mei/">Prof. Alessandro Mei</a>)
-  education4: MSc in CS, Sapienza University of Rome
+  education1: Postdoc at Hong Kong University of Science and Technology (HKUST), Hong Kong
+  education2: Postdoc at Sapienza University of Rome, Italy
+  education3: PhD in CS, Sapienza University of Rome, Italy (supervisor <a href="http://wwwusers.di.uniroma1.it/~mei/">Prof. Alessandro Mei</a>)
+  education4: MSc in CS, Sapienza University of Rome, Italy
 
 - name: Hossam Mohamed Farag
   photo: hossam.jpg
@@ -34,7 +34,7 @@
   number_educ: 4
   education1: Postdoc at KTH Royal Institute of Technology, Sweden
   education2: Postdoc at Kyung Hee University, Republic of Korea
-  education3: Ph.D. in Computer Engineering, Kyung Hee University, Republic of Korea
+  education3: Ph.D. in Computer Engineering, Kyung Hee University, Republic of Korea (supervisor <a href="https://scholar.google.com/citations?user=oKANWloAAAAJ&hl=en">Prof. Choong Seon Hong</a>)
   education4: BE in Marine Electrical Systems and Electronic Engineering, Myanmar Maritime University, Myanmar
 
 - name: Muhammad Waleed
@@ -52,8 +52,8 @@
   info: PhD on the <a href="https://ecn-aau.github.io/projects/iotalentum">MSCA ITN IoTalentum project</a>
   email: mjfm@es.aau.dk
   number_educ: 2
-  education1: A
-  education2: B
+  education1: MSc in Telecommunication Engineering, University of Valladolid, Spain
+  education2: MSc in Telecommunication Technologies Engineering, University of Valladolid, Spain
 
 - name: Nikhil Bhagwatrao Gaikwad
   photo: profile.jpg
