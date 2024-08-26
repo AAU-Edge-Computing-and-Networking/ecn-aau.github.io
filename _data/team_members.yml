@@ -31,11 +31,11 @@
   photo: profile.jpg
   info: Tenure Track Assistant Professor
   email: ykt@es.aau.dk
-  number_educ: 2
-  education1: A
-  education2: B
-  education3:
-  education4:
+  number_educ: 4
+  education1: Postdoc at KTH Royal Institute of Technology, Sweden
+  education2: Postdoc at Kyung Hee University, Republic of Korea
+  education3: Ph.D. in Computer Engineering, Kyung Hee University, Republic of Korea
+  education4: BE in Marine Electrical Systems and Electronic Engineering, Myanmar Maritime University, Myanmar
 
 - name: Muhammad Waleed
   photo: Waleed-1_compressed.webp
