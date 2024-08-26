@@ -73,10 +73,10 @@
 
 - name: Dimosthenis Iliadis-Apostolidis
   photo: DimosthenisIliadisApostolidis.jpg
-  info: PhD on the <a href="https://ecn-aau.github.io/projects/quarc">MSCA DN QUARC project</a>
+  info: PhD on the <a href="https://ecn-aau.github.io/projects/quarc">MSCA DN QUARC project</a> at AAU and NVIDIA. Research Interests - Software-Defined Networking (SDN), Programmable Networks, Computer/System Architecture
   email: dia@es.aau.dk
-  number_educ: 2
-  education1: A
+  number_educ: 1
+  education1: ME in Electrical and Computer Engineering, Aristotle University of Thessaloniki, Greece
   education2: B
   education3:
   education4:
