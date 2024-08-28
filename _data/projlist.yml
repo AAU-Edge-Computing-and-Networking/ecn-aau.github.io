@@ -1,3 +1,15 @@
+- title: "I3LUNG: Integrative science, Intelligent data platform for Individualized LUNG cancer care with Immunotherapy"
+  image: logo_i3lung.png
+  description: I3LUNG is a European project funded under the framework of the H2020 call “Ensuring access to innovative, sustainable and high-quality health care”. Our consortium gathers 16 partners located worldwide characterized by different expertise, with the common goal of providing better assistance and individualize treatment for patients affected by metastatic lung cancer.
+  people: Sokol Kosta (PI), Michele Zanitti (PhD student)
+  funding: Horizon Europe
+  budget: € 9 996 697,50
+  duration: 01/06/2022 → 31/05/2027
+  link:
+    url: https://ecn-aau.github.io/projects/i3lung
+    display: More details
+  highlight: 1
+
 - title: "CLEVER: Collaborative edge-cLoud continuum and Embedded AI for a Visionary industry of thE futuRe"
   image: logo_clever.png
   description: CLEVER proposes a series of innovations in hardware accelerators, design stack, and middleware software that revolutionize the ability of edge computing platforms to operate federatedly, leveraging sparse resources that are coordinated to create a powerful swarm of resources. CLEVER technologies will support the deep edge computing paradigm, moving computing services closer to the end user or the source of the data to reduce power consumption, reduce capacity requirements, and latency for mission critical applications.
