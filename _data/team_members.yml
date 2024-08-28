@@ -37,24 +37,6 @@
   education3: Ph.D. in Computer Engineering, Kyung Hee University, Republic of Korea (supervisor <a href="https://scholar.google.com/citations?user=oKANWloAAAAJ&hl=en">Prof. Choong Seon Hong</a>)
   education4: BE in Marine Electrical Systems and Electronic Engineering, Myanmar Maritime University, Myanmar
 
-- name: Muhammad Waleed
-  photo: Waleed-1_compressed.webp
-  info: PhD on the <a href="https://ecn-aau.github.io/projects/fgpe_plus_plus">MSCA ITN IoTalentum project</a>
-  email: muhammadw@es.aau.dk
-  number_educ: 2
-  education1: A
-  education2: B
-  education3:
-  education4:
-
-- name: Mieszko Jan Ferens Michalek
-  photo: mieszko.jpg
-  info: PhD on the <a href="https://ecn-aau.github.io/projects/iotalentum">MSCA ITN IoTalentum project</a>
-  email: mjfm@es.aau.dk
-  number_educ: 2
-  education1: MSc in Telecommunication Engineering, University of Valladolid, Spain
-  education2: MSc in Telecommunication Technologies Engineering, University of Valladolid, Spain
-
 - name: Nikhil Bhagwatrao Gaikwad
   photo: nikhil.jpg
   info: Postdoc on the <a href="https://ecn-aau.github.io/projects/clever">EU KDT-JU CLEVER project</a>, started October 2023
@@ -63,9 +45,27 @@
   education1: A
   education2: B
 
+- name: Muhammad Waleed
+  photo: Waleed-1_compressed.webp
+  info: PhD on the <a href="https://ecn-aau.github.io/projects/fgpe_plus_plus">MSCA ITN IoTalentum project</a> at AAU (supervisor S. Kosta, co-supervisor <a href="https://vbn.aau.dk/en/persons/skouby">Prof. Knud Erik Skouby</a>). Research interests - cyber security, the Internet of Things, machine learning, trust management, and network communication.
+  email: muhammadw@es.aau.dk
+  number_educ: 2
+  education1: Researcher in the Trust Data Analytics and Management Lab, Department of Information and Communication Engineering, Chosun University, South Korea
+  education2: M.Sc. in Computer Systems Engineering, University of Engineering and Technology (UET), Peshawar, Pakistan
+  education3:
+  education4:
+
+- name: Mieszko Jan Ferens Michalek
+  photo: mieszko.jpg
+  info: PhD on the <a href="https://ecn-aau.github.io/projects/iotalentum">MSCA ITN IoTalentum project</a> (supervisor S. Kosta, co-supervisor E. Dushku)
+  email: mjfm@es.aau.dk
+  number_educ: 2
+  education1: MSc in Telecommunication Engineering, University of Valladolid, Spain
+  education2: MSc in Telecommunication Technologies Engineering, University of Valladolid, Spain
+
 - name: Jerónimo Sánchez García
   photo: Jeronimo.jpg
-  info: PhD on the <a href="https://ecn-aau.github.io/projects/quarc">MSCA DN QUARC project</a>
+  info: PhD on the <a href="https://ecn-aau.github.io/projects/quarc">MSCA DN QUARC project</a> at AAU and NVIDIA (supervisor S. Kosta, co-supervisor <a href="https://scholar.google.com/citations?user=RUqDe4YAAAAJ&hl=en">Juan Jose Vegas Olmos</a>)
   email: jsg@es.aau.dk
   number_educ: 2
   education1: A
@@ -73,7 +73,7 @@
 
 - name: Dimosthenis Iliadis-Apostolidis
   photo: DimosthenisIliadisApostolidis.jpg
-  info: PhD on the <a href="https://ecn-aau.github.io/projects/quarc">MSCA DN QUARC project</a> at AAU and NVIDIA. Research Interests - Software-Defined Networking (SDN), Programmable Networks, Computer/System Architecture
+  info: PhD on the <a href="https://ecn-aau.github.io/projects/quarc">MSCA DN QUARC project</a> at AAU and NVIDIA (supervisor S. Kosta, co-supervisor <a href="https://scholar.google.com/citations?user=RUqDe4YAAAAJ&hl=en">Juan Jose Vegas Olmos</a>). Research Interests - Software-Defined Networking (SDN), Programmable Networks, Computer/System Architecture
   email: dia@es.aau.dk
   number_educ: 1
   education1: ME in Electrical and Computer Engineering, Aristotle University of Thessaloniki, Greece
