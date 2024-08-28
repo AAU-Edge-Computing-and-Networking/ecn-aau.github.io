@@ -7,6 +7,12 @@ permalink: /projects/clever
 ---
 
 # CLEVER: Collaborative edge-cLoud Continuum and Embedded AI for a Visionary Industry of the future
+#### Project: 101097560 — CLEVER — HORIZON-KDT-JU-2021-2-RIA
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-eu-cofunded.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-kdt-ju.gif" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_ifd.png" style="width: 120px">
+</figure>
 
 ### Objectives
 
