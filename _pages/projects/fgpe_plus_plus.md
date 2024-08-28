@@ -9,6 +9,7 @@ permalink: /projects/fgpe_plus_plus
 # FGPE++: Gamified Programming Learning at Scale
 #### Project Reference: 2023-1-PL01-KA220-HED-000164696
 <figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-FGPE-full.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-eu-cofunded.png" style="width: 210px">
 </figure>
 
