@@ -2,10 +2,10 @@
   photo: CedomirStefanovic.jpg
   info: Professor, Group leader
   email: cs@es.aau.dk
-  number_educ: 2
-  education1: A
-  education2: B
-  education3:
+  number_educ: 3
+  education1: Assoc. prof, AAU, 2016-2020
+  education2: Postdoc/Resarch assistant prof., AAU, 2012 - 2015
+  education3: Dipl.-Ing., Mr.-Ing., and Dr.-Ing. in Electrical engineering, University of Novi Sad, Serbia
   education4:
 
 - name: Sokol Kosta
@@ -16,7 +16,7 @@
   education1: Postdoc at Hong Kong University of Science and Technology (HKUST)
   education2: Postdoc at Sapienza University of Rome
   education3: PhD in CS, Sapienza University of Rome, Italy (supervisor <a href="http://wwwusers.di.uniroma1.it/~mei/">Prof. Alessandro Mei</a>)
-  education4: MSc in CS, Sapienza University of Rome
+  education4: BSc, MSc in CS, Sapienza University of Rome
 
 - name: Hossam Mohamed Farag
   photo: hossam.jpg
