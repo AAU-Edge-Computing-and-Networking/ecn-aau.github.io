@@ -2,8 +2,13 @@
 <div class="well">
 <h4>News</h4>
 
-{% for article in site.data.news limit:9 %}
-<p>{{ article.date }}<br>{{ article.headline | markdownify}}</p>
+{% for news in site.data.news limit:9 %}
+<p>
+    <b><a style="color: inherit;" href="{{news.url}}">{{ news.title | markdownify}}</a></b>
+    <i>{{ news.date }}, by {{ news.author}}</i>
+    <div style="min-height: 2rem;"></div>
+</p>
+
 {% endfor %}
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
