@@ -76,26 +76,26 @@ applications such as virtual and augmented reality (VR/AR) or the Metaverse.
 
 ### Partners
 
-* Scuola Superiore DI Studi Universitari E Diperfezionamento S ANNA IT (Coordinator)
-* EMC Information Systems International Unlimited Company IE
-* Conti Temic Microelectronic Gmbh DE
-* Synopsys Netherlands BV Nl
-* Eccenca Gmbh De
-* Technische Universiteit Eindhoven Nl
-* Agricolus S.R.L. It
-* Aalborg Universitet Dk
-* Gottfried Wilhelm Leibniz Universitaet Hannover Germany
-* Consorzio Nazionale Interuniversitario Per Le Telecomunicazioni It
-* Cortus Fr
-* Bayerische Motoren Werke Aktiengesellschaft De
-* Nvidia Gmbh De
-* Golfe Dk
-* Institute Of Communication And Computer Systems Greece
-* Italtel S.P.A. It
-* Hochschule Fuer Technik Und Wirtschaft Dresden De
-* Innatera Nanosystems Bv Nl
-* Fraunhofer Gesellschaft Zur Forderung Der Angewandten Forschung Ev De
-* University College Cork - National University Of Ireland, Cork Ie
+1. Scuola Superiore DI Studi Universitari E Diperfezionamento S ANNA IT (Coordinator)
+2. EMC Information Systems International Unlimited Company, Ireland
+3. Synopsys Netherlands BV, Netherlands
+4. Eccenca GmbH, Germany
+5. Technische Universiteit Eindhoven, Netherlands
+6. Agricolus S.R.L., Italy
+7. Aalborg Universitet, Denmark
+8. Gottfried Wilhelm Leibniz Universitaet Hannover, Germany
+9. Consorzio Nazionale Interuniversitario Per Le Telecomunicazioni, Italy
+10. Cortus, France
+11. Bayerische Motoren Werke Aktiengesellschaft, Germany
+12. NVIDIA GmbH, Germany
+13. Golfe APS, Denmark
+14. Ethnicon Metsovion Polytechnion, Greece
+15. Italtel SPA, Italy
+16. Hochschule Fuer Technik Und Wirtschaft Dresden, Germany
+17. Innatera Nanosystems BV, Netherlands
+18. Fraunhofer Gesellschaft Zur Foerderung Der Angewandten Forschung EV, Germany
+19. University College Cork - National University Of Ireland, Cork, Ireland
+20. Mellanox Technologies Ltd - MLNX, Israel
 
 |                                               |                                                                                                                                      |
 |-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
