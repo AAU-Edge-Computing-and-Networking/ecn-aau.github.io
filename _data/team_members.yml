@@ -65,7 +65,7 @@
 
 - name: Jerónimo Sánchez García
   photo: Jeronimo.jpg
-  info: PhD on the <a href="https://ecn-aau.github.io/projects/quarc">MSCA DN QUARC project</a> at AAU and NVIDIA (supervisor S. Kosta, co-supervisor <a href="https://scholar.google.com/citations?user=RUqDe4YAAAAJ&hl=en">Juan Jose Vegas Olmos</a>)
+  info: Industrial PhD on the <a href="https://ecn-aau.github.io/projects/quarc">MSCA DN QUARC project</a> at AAU and NVIDIA (supervisor S. Kosta, co-supervisor <a href="https://scholar.google.com/citations?user=RUqDe4YAAAAJ&hl=en">Juan Jose Vegas Olmos</a>)
   email: jsg@es.aau.dk
   number_educ: 2
   education1: A
@@ -73,7 +73,7 @@
 
 - name: Dimosthenis Iliadis-Apostolidis
   photo: DimosthenisIliadisApostolidis.jpg
-  info: PhD on the <a href="https://ecn-aau.github.io/projects/quarc">MSCA DN QUARC project</a> at AAU and NVIDIA (supervisor S. Kosta, co-supervisor <a href="https://scholar.google.com/citations?user=RUqDe4YAAAAJ&hl=en">Juan Jose Vegas Olmos</a>). Research Interests - Software-Defined Networking (SDN), Programmable Networks, Computer/System Architecture
+  info: Industrial PhD on the <a href="https://ecn-aau.github.io/projects/quarc">MSCA DN QUARC project</a> at AAU and NVIDIA (supervisor S. Kosta, co-supervisor <a href="https://scholar.google.com/citations?user=RUqDe4YAAAAJ&hl=en">Juan Jose Vegas Olmos</a>). Research Interests - Software-Defined Networking (SDN), Programmable Networks, Computer/System Architecture
   email: dia@es.aau.dk
   number_educ: 1
   education1: ME in Electrical and Computer Engineering, Aristotle University of Thessaloniki, Greece
@@ -83,7 +83,7 @@
 
 - name: Ozan Karaali
   photo: OzanKaraali.jpg
-  info: PhD on the <a href="https://ecn-aau.github.io/projects/climb">DFF CLIMB project</a>
+  info: PhD on the <a href="https://ecn-aau.github.io/projects/climb">DFF CLIMB project (supervisor C. Stefanovic)</a>
   email: ozank@es.aau.dk
   number_educ: 2
   education1: A
@@ -93,7 +93,7 @@
 
 - name: Michele Zanitti
   photo: michele.jpg
-  info: PhD on the <a href="https://ecn-aau.github.io/projects/i3lung">EU Horizon Europe I3LUNG project</a>
+  info: PhD on the <a href="https://ecn-aau.github.io/projects/i3lung">EU Horizon Europe I3LUNG project</a> (supervisor S. Kosta, co-supervisor <a href="https://vbn.aau.dk/en/persons/mish">Ming Shen</a>)
   email: mza@es.aau.dk
   number_educ: 2
   education1: A
