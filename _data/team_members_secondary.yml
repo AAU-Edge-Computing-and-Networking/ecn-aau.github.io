@@ -29,10 +29,13 @@
 
 - name: Weifan Zhang
   photo: WeifanZhang.jpg
-  info: TBD
+  info: PhD on the <a href="https://vbn.aau.dk/en/projects/5g-enabled-autonomous-mobile-robotic-systems">5G Enabled Autonomous Mobile Robotic Systems Project</a>
   email: weifanzh@es.aau.dk
   number_educ: 2
-  education1: A
-  education2: B
+  education1: B.Sc. in Computer Science, Henan University, China
+  education2: M.Sc. in Computer Science, Fuzhou University, China
   education3:
   education4:
+
+
+
