@@ -1,9 +1,38 @@
+# This file contains all news stories
+# There is no automatic sorting, so the order here reflects the order on the website. A new story should thus be added to the top, for the chronological order to be kept.
+# All images for the news should go into the folder images/newspic
+# If no image is provided, a default image is inserted
+
+# Use the following template for a new news story
+# - date: 
+#   title: 
+#   url: 
+#   author: 
+#   image: 
+#   exceprt: 
+
+
 - date: 26. July 2024
-  headline: "[Debat: Udenlandske universitetsstuderende styrker dansk innovation](https://vbn.aau.dk/en/clippings/debat-udenlandske-universitetsstuderende-styrker-dansk-innovation)<br>Edlira Dushku"
+  title: "Debat: Udenlandske universitetsstuderende styrker dansk innovation"
+  url: "https://vbn.aau.dk/en/clippings/debat-udenlandske-universitetsstuderende-styrker-dansk-innovation"
+  author: "Edlira Dushku"
+  excerpt: I et debatindlæg argumenterer Edlira Dushku, adjunkt ved Aalborg Universitet, samt ni andre for, at internationale studerende er en uundværlig ressource for Danmarks økonomiske vækst og velstand. "Vi opfordrer derfor politikerne til at åbne sluserne for de udenlandske studerende," skriver de. De mener, at udenlandske universitetsstuderende bidrager væsentligt til samfundet gennem deres arbejdsindsats, innovation og udvikling af nye teknologier. Dette har stor betydning for dansk eksport og jobskabelse. De opfordrer til at øge antallet af udenlandske universitetsstuderende på danske universiteter for at styrke Danmarks position som et førende videncenter.
 
 - date: 14. December 2023
-  headline: "[Danish research sets record. Moves quantum-safe data at 100 Gbit/s](https://vbn.aau.dk/en/clippings/dansk-forskning-s%C3%A6tter-rekord-flytter-kvantesikre-data-med-100-gb)<br>Vegas Olmos et al."
+  title: "Danish research sets record: Moves quantum-safe data at 100 Gbit/s"
+  url: "https://ing.dk/artikel/dansk-forskning-saetter-rekord-flytter-kvantesikre-data-med-100-gbits"
+  author: "Juan Jose Vegas Olmos, Sokol Kosta, Dimosthenis Iliadis-Apostolidis, Jerónimo Sánchez García, Knud Erik Skouby"
+  image: 100gbits.png
+  excerpt: I Aalborg er det lykkedes danske forskere og Nvidias danske afdeling at udveksle krypteringsnøgler med 100 Gbit/s, som selv fremtidens kvantecomputere ikke kan bryde.
+
 
 - date: 29. August 2023
-  headline: "[AI: helping wireless networks help themselves](https://vbn.aau.dk/en/clippings/ai-helping-wireless-networks-help-themselves)<br>Cedomir Stefanovic"
+  title: "AI: helping wireless networks help themselves"
+  author: "Cedomir Stefanovic"
+  url: "https://cordis.europa.eu/article/id/446044-ai-helping-wireless-networks-help-themselves"
+  image: ai-windmill.jpg
+  excerpt: "The WINDMILL project, coordinated by professor Cedomir Stefanovic of Aalborg University, has used AI to optimise network performance for the Internet of Things (IoT). The project has trained early stage researchers in the application of AI, specifically machine learning, to address the challenges of complex cellular systems like 5G and beyond. Mr Stefanovic states 'WINDMILL's outcomes are directly relevant to 5G and 6G networks... As the demand for reliable and high-performance wireless communications grows, WINDMILL has demonstrated what AI can do for our wireless connectivity.'"
+
+
+
 
