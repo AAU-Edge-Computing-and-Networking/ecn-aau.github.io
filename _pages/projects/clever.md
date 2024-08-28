@@ -3,8 +3,7 @@ title: "CLEVER: Collaborative edge-cLoud Continuum and Embedded AI for a Visiona
 layout: textlay
 excerpt: "ECN AAU -- Projects"
 sitemap: false
-Permalink: /projects/clever
-
+permalink: /projects/clever
 ---
 
 # CLEVER: Collaborative edge-cLoud Continuum and Embedded AI for a Visionary Industry of the future

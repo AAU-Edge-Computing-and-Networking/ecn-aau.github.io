@@ -1,5 +1,5 @@
 ---
-title: "ECN AAU - Example Project"
+title: "Erasmus+ FGPE++: Gamified Programming Learning at Scale"
 layout: textlay
 excerpt: "ECN AAU -- Projects"
 sitemap: false
