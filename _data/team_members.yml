@@ -41,9 +41,10 @@
   photo: nikhil.jpg
   info: Postdoc on the <a href="https://ecn-aau.github.io/projects/clever">EU KDT-JU CLEVER project</a>, started October 2023
   email: nbg@es.aau.dk
-  number_educ: 2
-  education1: A
-  education2: B
+  number_educ: 3
+  education1: Postdoc at Signal Processing and Machine Learning Group, Aarhus University, Denmark
+  education2: PhD in Edge Intelligence, Visvesvaraya National Institute of Technology (VNIT), Nagpur, India
+  education3: M. Tech. in Electronics Engineering, Veermata Jijabai Technological Institute (VJTI), Mumbai, India
 
 - name: Muhammad Waleed
   photo: Waleed-1_compressed.webp
