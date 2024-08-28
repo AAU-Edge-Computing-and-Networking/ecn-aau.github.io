@@ -33,9 +33,8 @@ Industries and SMEs to leverage state-of-the-art technologies, driving their dev
 sectors.
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/clever-architecture.png" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/clever-architecture.png" width="80%">
 </figure>
-
 
 ### Activities
 
@@ -98,14 +97,13 @@ applications such as virtual and augmented reality (VR/AR) or the Metaverse.
 
 |                                               |                                                                                                                                      |
 |-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| **People involved**:                          | S. Kosta                                                                                                                             |
+| **People involved**:                          | Sokol Kosta (PI), Nikhil Bhagwatrao Gaikwad (Postdoc), Ralf Lübben (Visiting researcher), Nickels Witte (Research assistant)         |
 | **Funding source**:                           | EU Key Digital Technologies Joint Undertaking (KDT JU) and its members including top-up funding by the Innovation Fund Denmark (IFD) |
 | **Budget**:                                   | 14 974 655,00M EUR (EU contribution € 4 497 177,77)                                                                                  |
 | **Duration**:                                 | 01/01/2023 → 31/12/2025                                                                                                              |
 | **Project website**:                          | [https://www.cleverproject.eu/](https://www.cleverproject.eu/)                                                                       |
 | **Website at CORDIS (Horizon Europe)**:       | [https://cordis.europa.eu/project/id/101097560](https://cordis.europa.eu/project/id/101097560/)                                      |
 | **Website at Innovation Fund Denmark (IFD)**: | [https://innovationsfonden.dk/da](https://innovationsfonden.dk/da)                                                                   |
-
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-eu-cofunded.png" style="width: 210px">
