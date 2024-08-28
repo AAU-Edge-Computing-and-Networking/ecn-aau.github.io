@@ -7,6 +7,10 @@ permalink: /projects/fgpe_plus_plus
 ---
 
 # FGPE++: Gamified Programming Learning at Scale
+#### Project Reference: 2023-1-PL01-KA220-HED-000164696
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-eu-cofunded.png" style="width: 210px">
+</figure>
 
 ### Objectives
 
@@ -71,4 +75,8 @@ countries, the Americas, Oceania, Asia, and Africa.
 | **Project website**:     | [https://fgpeplus2.usz.edu.pl/partners/](https://fgpeplus2.usz.edu.pl/partners/)                                                                                                                                           |
 | **Website at Erasmus+**: | [https://erasmus-plus.ec.europa.eu/projects/search/details/2023-1-PL01-KA220-HED-000164696](https://erasmus-plus.ec.europa.eu/projects/search/details/2023-1-PL01-KA220-HED-000164696)                                     |
 
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-eu-cofunded.png" style="width: 210px">
+</figure>
 
+#### Project Reference: 2023-1-PL01-KA220-HED-000164696
