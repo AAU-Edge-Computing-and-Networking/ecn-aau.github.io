@@ -2,7 +2,7 @@
 title: "ECN AAU - Pictures"
 layout: piclay
 excerpt: "ECN AAU -- Pictures"
-permalink: /pictures/
+permalink:
 ---
 
 # Pictures
