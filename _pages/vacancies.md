@@ -30,5 +30,5 @@ If you are interested in pursuing a Master degree at AAU in Copenhagen, see [the
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/foto-sokol-cct.webp" width="95%">
 </figure>
