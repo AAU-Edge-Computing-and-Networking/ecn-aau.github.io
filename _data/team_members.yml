@@ -10,7 +10,7 @@
 
 - name: Sokol Kosta
   photo: SokolKosta.jpg
-  info: Associate professor, as of 2020
+  info: Associate professor
   email: sok@es.aau.dk
   number_educ: 4
   education1: Postdoc at Hong Kong University of Science and Technology (HKUST)
@@ -86,8 +86,8 @@
   info: PhD on the <a href="https://ecn-aau.github.io/projects/climb">DFF CLIMB project</a> (supervisor C. Stefanovic)
   email: ozank@es.aau.dk
   number_educ: 2
-  education1: A
-  education2: B
+  education1: M.Sc. in Informatics, TU München, Germany
+  education2: B.Sc. in Computer Engineering, Abdullah Gul University, Turkey
   education3:
   education4:
 
