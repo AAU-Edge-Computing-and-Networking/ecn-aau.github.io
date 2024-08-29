@@ -1,5 +1,5 @@
 - title: "CLIMB: Cloud Connected Bionic Limbs"
-  image: logo_assistive_robotics.jpg
+  image: climb-hand-small.png
   description: CLIMB aims to develop the next generation of bionic limbs, featuring an unprecedented degree of intelligence through cloud connectivity and 5G technology. By leveraging the high throughput and low latency of 5G networks, cloud-connected bionic limbs will offer more reliable, responsive, and intuitive user experiences. The project will utilize cloud/edge computing to enhance machine learning models, enabling real-time data collection and processing from a multitude of sensors that gather data about the surroundings and context of patients’ movements. This approach will significantly improve the accuracy of prosthetic movements, closely aligning them with the user's intentions, thereby increasing user satisfaction and quality of life. The interdisciplinary nature of the project team, combined with cutting-edge technology, provides an enormous potential to revolutionize assistive robotics and create effective solutions for individuals with disabilities.
   people: Cedomir Stefanovic (co-PI), Hossam Mohamed Farag, Ozan Karaali (PhD student employed on the project)
   funding: Danmarks Frie Forskningsfond (DFF projekt 2)
