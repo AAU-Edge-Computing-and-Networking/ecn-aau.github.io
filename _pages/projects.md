@@ -28,7 +28,7 @@ permalink: /projects/
   Funding: {{ proj.funding }}<br>
   Budget: {{ proj.budget }}<br>
   Duration: {{ proj.duration }}</p>
-  <p><strong><a href="{{ proj.link.url }}">{{ proj.link.display }}</a></strong></p>
+  <p><strong><a href="{{ site.url }}{{ site.baseurl }}/projects/{{ proj.link.url }}">{{ proj.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ proj.news1 }}</strong></p>
   <p> {{ proj.news2 }}</p>
  </div>

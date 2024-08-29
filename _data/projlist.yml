@@ -6,7 +6,7 @@
   budget: 6,189,788 DKK
   duration: 01/07/2023 → 31/12/2026
   link:
-    url: https://ecn-aau.github.io/projects/climb
+    url: climb
     display: More details
   highlight: 1
 
@@ -18,7 +18,7 @@
   budget: € 9 996 697,50
   duration: 01/06/2022 → 31/05/2027
   link:
-    url: https://ecn-aau.github.io/projects/i3lung
+    url: i3lung
     display: More details
   highlight: 1
 
@@ -30,7 +30,7 @@
   budget: € 14 974 655,00 (EU contribution € 4 497 177,77)
   duration: 01/01/2023 → 31/12/2025
   link:
-    url: https://ecn-aau.github.io/projects/clever
+    url: clever
     display: More details
   highlight: 1
 
@@ -42,7 +42,7 @@
   budget: € 2 215 893,60
   duration: 01/09/2022 → 31/08/2026
   link:
-    url: https://ecn-aau.github.io/projects/quarc
+    url: quarc
     display: More details
   highlight: 1
 
@@ -54,6 +54,6 @@
   people: Sokol Kosta (PI)
   duration: 01/10/2023 → 30/09/2025
   link:
-    url: https://ecn-aau.github.io/projects/fgpe_plus_plus
+    url: fgpe_plus_plus
     display: More details
   highlight: 1
