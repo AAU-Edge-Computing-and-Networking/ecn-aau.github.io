@@ -12,7 +12,7 @@
 
 - title: "I3LUNG: Integrative science, Intelligent data platform for Individualized LUNG cancer care with Immunotherapy"
   image: logo_i3lung.png
-  description: I3LUNG is a European project funded under the framework of the H2020 call “Ensuring access to innovative, sustainable and high-quality health care”. Our consortium gathers 16 partners located worldwide characterized by different expertise, with the common goal of providing better assistance and individualize treatment for patients affected by metastatic lung cancer.
+  description: I3LUNG is a European project funded under the framework of the H2020 call “Ensuring access to innovative, sustainable and high-quality health care”. Our consortium gathers 16 partners located worldwide characterized by different expertise, with the common goal of providing better assistance and individualize treatment for patients affected by metastatic lung cancer. The project will set up a global platform comprising data from 2 000 patients for AI models validation; moreover, it will collect multi-omics data from 200 NSCLC patients for information integration and application in leading immunotherapy decisions.
   people: Sokol Kosta (PI), Michele Zanitti (PhD student)
   funding: Horizon Europe
   budget: € 9 996 697,50
