@@ -40,7 +40,7 @@ Industries and SMEs to leverage state-of-the-art technologies, driving their dev
 sectors.
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/clever-architecture.png" width="80%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/clever-architecture.png" width="80%" style="display: block;margin-left: auto;margin-right: auto;margin-top:4rem;">
 </figure>
 
 ### Activities
