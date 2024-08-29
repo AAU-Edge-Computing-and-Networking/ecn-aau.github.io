@@ -15,8 +15,6 @@ permalink: /projects/i3lung
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-ec--en.svg" style="width: 210px">
 </figure>
 
-# Project Description
-
 ## AI-based platform to assist in lung cancer immunotherapy
 
 Although immunotherapy is the new standard of care for advanced non-small cell lung cancer (NSCLC), less than 50 % of
