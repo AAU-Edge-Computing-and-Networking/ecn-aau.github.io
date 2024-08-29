@@ -1,3 +1,27 @@
+- title: "CLIMB: Cloud Connected Bionic Limbs"
+  image: climb-hand-small.png
+  description: CLIMB aims to develop the next generation of bionic limbs, featuring an unprecedented degree of intelligence through cloud connectivity and 5G technology. By leveraging the high throughput and low latency of 5G networks, cloud-connected bionic limbs will offer more reliable, responsive, and intuitive user experiences. The project will utilize cloud/edge computing to enhance machine learning models, enabling real-time data collection and processing from a multitude of sensors that gather data about the surroundings and context of patients’ movements. This approach will significantly improve the accuracy of prosthetic movements, closely aligning them with the user's intentions, thereby increasing user satisfaction and quality of life. The interdisciplinary nature of the project team, combined with cutting-edge technology, provides an enormous potential to revolutionize assistive robotics and create effective solutions for individuals with disabilities.
+  people: Cedomir Stefanovic (co-PI), Hossam Mohamed Farag, Ozan Karaali (PhD student employed on the project)
+  funding: Danmarks Frie Forskningsfond (DFF projekt 2)
+  budget: 6,189,788 DKK
+  duration: 01/07/2023 → 31/12/2026
+  link:
+    url: https://ecn-aau.github.io/projects/climb
+    display: More details
+  highlight: 1
+
+- title: "I3LUNG: Integrative science, Intelligent data platform for Individualized LUNG cancer care with Immunotherapy"
+  image: logo_i3lung.png
+  description: I3LUNG is a European project funded under the framework of the H2020 call “Ensuring access to innovative, sustainable and high-quality health care”. Our consortium gathers 16 partners located worldwide characterized by different expertise, with the common goal of providing better assistance and individualize treatment for patients affected by metastatic lung cancer. The project will set up a global platform comprising data from 2 000 patients for AI models validation; moreover, it will collect multi-omics data from 200 NSCLC patients for information integration and application in leading immunotherapy decisions.
+  people: Sokol Kosta (PI), Michele Zanitti (PhD student)
+  funding: Horizon Europe
+  budget: € 9 996 697,50
+  duration: 01/06/2022 → 31/05/2027
+  link:
+    url: https://ecn-aau.github.io/projects/i3lung
+    display: More details
+  highlight: 1
+
 - title: "CLEVER: Collaborative edge-cLoud continuum and Embedded AI for a Visionary industry of thE futuRe"
   image: logo_clever.png
   description: CLEVER proposes a series of innovations in hardware accelerators, design stack, and middleware software that revolutionize the ability of edge computing platforms to operate federatedly, leveraging sparse resources that are coordinated to create a powerful swarm of resources. CLEVER technologies will support the deep edge computing paradigm, moving computing services closer to the end user or the source of the data to reduce power consumption, reduce capacity requirements, and latency for mission critical applications.

@@ -1,5 +1,5 @@
 ---
-title: "ECN AAU - Example Project"
+title: "Erasmus+ FGPE++: Gamified Programming Learning at Scale"
 layout: textlay
 excerpt: "ECN AAU -- Projects"
 sitemap: false
@@ -7,6 +7,11 @@ permalink: /projects/fgpe_plus_plus
 ---
 
 # FGPE++: Gamified Programming Learning at Scale
+#### Project Reference: 2023-1-PL01-KA220-HED-000164696
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_FGPE_full.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-eu-cofunded.png" style="width: 210px">
+</figure>
 
 ### Objectives
 
@@ -63,7 +68,7 @@ countries, the Americas, Oceania, Asia, and Africa.
 
 |                          |                                                                                                                                                                                                                            |
 |--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **People involved**:     | S. Kosta                                                                                                                                                                                                                   |
+| **People involved**:     | Sokol Kosta (PI)                                                                                                                                                                                                           |
 | **Funding source**:      | EU ERASMUS+                                                                                                                                                                                                                |
 | **Budget**:              | 250K EUR                                                                                                                                                                                                                   |
 | **Duration**:            | 01/10/2023 → 30/09/2025                                                                                                                                                                                                    |
@@ -71,4 +76,8 @@ countries, the Americas, Oceania, Asia, and Africa.
 | **Project website**:     | [https://fgpeplus2.usz.edu.pl/partners/](https://fgpeplus2.usz.edu.pl/partners/)                                                                                                                                           |
 | **Website at Erasmus+**: | [https://erasmus-plus.ec.europa.eu/projects/search/details/2023-1-PL01-KA220-HED-000164696](https://erasmus-plus.ec.europa.eu/projects/search/details/2023-1-PL01-KA220-HED-000164696)                                     |
 
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-eu-cofunded.png" style="width: 210px">
+</figure>
 
+#### Project Reference: 2023-1-PL01-KA220-HED-000164696

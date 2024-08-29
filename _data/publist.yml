@@ -9,35 +9,11 @@
 #  highlight: 1
 #  news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
 
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
-  image: bio-photo.jpg
-  description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
-  authors: Jiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
-  link:
-    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076001
-    display: Phys. Rev. Lett. 132, 076001 (Editors' Suggestion)
-  highlight: 1
-
 
 - title: "Aerial STAR-RIS Empowered MEC: A DRL Approach for Energy Minimization"
-  authors: Aung, P. S., Nguyen, X. L., Tun, Y. K., Han, Z. & Hong, C. S.
+  authors: Aung, P. S., Nguyen, X. L., <b>Tun, Y. K.</b>, Han, Z. & Hong, C. S.
   link:
     url: https://vbn.aau.dk/en/publications/aerial-star-ris-empowered-mec-a-drl-approach-for-energy-minimizat
     display: IEEE Wireless Communications Letters, 24 Feb 2024, (Accepted/In press)
   highlight: 1
-
-- title: "The wonderful aspects of human suffering: An evidene review"
-  authors: C. S. Lewing
-  link:
-    url: https://suffering.com
-    display: Displayed text thing
-  highlight: 0
-
-- title: "Aerial STAR-RIS Empowered MEC: A DRL Approach for Energy Minimization"
-  authors: Aung, P. S., Nguyen, X. L., Tun, Y. K., Han, Z. & Hong, C. S.
-  link:
-    url: https://vbn.aau.dk/en/publications/aerial-star-ris-empowered-mec-a-drl-approach-for-energy-minimizat
-    display: IEEE Wireless Communications Letters, 24 Feb 2024, (Accepted/In press)
-  highlight: 1
-
 
