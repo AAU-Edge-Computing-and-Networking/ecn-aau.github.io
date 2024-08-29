@@ -9,7 +9,7 @@
 #   url: 
 #   author: 
 #   image: 
-#   exceprt: 
+#   excerpt: 
 
 
 - date: 26. July 2024
@@ -33,6 +33,24 @@
   image: ai-windmill.jpg
   excerpt: "The WINDMILL project, coordinated by professor Cedomir Stefanovic of Aalborg University, has used AI to optimise network performance for the Internet of Things (IoT). The project has trained early stage researchers in the application of AI, specifically machine learning, to address the challenges of complex cellular systems like 5G and beyond. Mr Stefanovic states 'WINDMILL's outcomes are directly relevant to 5G and 6G networks... As the demand for reliable and high-performance wireless communications grows, WINDMILL has demonstrated what AI can do for our wireless connectivity.'"
 
+- date: 14. January 2022
+  title: "Forbundet: 200 megabit sendt fra himlen"
+  url: https://www.weekendavisen.dk/2022-2/ideer/200-megabit-sendt-fra-himlen
+  author: Israel Leyva Mayorga
+  image: 23980305-12.jpg
+  excerpt: "Forbundet. De første danskere er nu koblet på Starlink, SpaceXs satellitinternet, og klodens undertrykte trygler om at blive de næste. Får vi endelig et frit internet til alle, ingen despoter kan slukke for?"
 
+- date: 18. June 2021
+  title: "Universitet lancerer nyt forskningscenter for cirkulær økonomi"
+  url: https://pro.ing.dk/wastetech/note/universitet-lancerer-nyt-forskningscenter-cirkulaer-oekonomi
+  author: Mette Mosgaard, Massimo Pizzol, Bent Thomsen, Louise Møller Haase, Reza Tadayoni
+  image: 1015048_ce-cb-1-.jpg.webp
+  excerpt: "Aalborg Universitet etablerer et nyt forskningscenter, TECH for Circular Economy (TECH4CE). Centeret skal bidrage til at etablere tværfaglige samarbejder for at udvikle og vurdere forretningsmodeller og offentlig regulering, der kan reducere klimabelastninger og reducere ressourceforbrug."
+
+- date: 20. May 2021
+  title: "ES RESEARCHERS WIN BEST STUDENT PAPER FOR ARTICLE ON A SYSTEM TO MONITOR VEHICLE POLLUTION"
+  url: https://vbn-aau-dk.zorac.aub.aau.dk/en/clippings/es-researchers-win-best-student-paper-for-article-on-a-system-to-
+  author: Lam Duc Nguyen, Petar Popovski, Israel Leyva Mayorga
+  excerpt: "A group of researchers from the Department of Electronic Systems, Aalborg University receive the International Conference on Vehicle Technology and Intelligent Transport Systems (VEHITS) 2021 best student paper award for the article “B-ETS: A Trusted Blockchain-based Emissions Trading System for Vehicle-to-Vehicle Networks."
 
 
